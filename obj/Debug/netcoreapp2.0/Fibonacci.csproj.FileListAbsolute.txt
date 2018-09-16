@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/tdd1/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.deps.json
+/home/ubuntu/workspace/tdd1/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.runtimeconfig.json
+/home/ubuntu/workspace/tdd1/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.runtimeconfig.dev.json
+/home/ubuntu/workspace/tdd1/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.dll
+/home/ubuntu/workspace/tdd1/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.pdb
+/home/ubuntu/workspace/tdd1/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/tdd1/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.AssemblyInfo.cs
+/home/ubuntu/workspace/tdd1/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.dll
+/home/ubuntu/workspace/tdd1/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.pdb
